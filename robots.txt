@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /category/
+Allow: /go/
+Disallow: /css/
+Disallow: /js/
+Disallow: /.git/
+
+# Sitemap
+Sitemap: https://the-pizza-edition-game.github.io/sitemap.xml 
