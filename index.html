@@ -25,16 +25,203 @@
   <link rel="canonical" href="https://the-pizza-edition-game.github.io/"   />
   <meta name="robots" content="index, follow">
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-58TDXJG2T7"></script>
+  <!-- <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-58TDXJG2T7"></script> -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+    // window.dataLayer = window.dataLayer || [];
+    // function gtag() { dataLayer.push(arguments); }
+    // gtag('js', new Date());
 
     //gtag('config', 'G-58TDXJG2T7');
   </script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1879469387670618"
-    crossorigin="anonymous"></script>
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1879469387670618"
+    crossorigin="anonymous"></script> -->
+  <style>
+    .banner {
+      padding: 60px 30px;
+      min-height: 400px;
+      border-radius: 20px;
+      margin: 20px 0;
+      position: relative;
+      overflow: hidden;
+      z-index: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(119, 3, 3, 0.9));
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .pizza-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      overflow: hidden;
+      opacity: 0.2;
+    }
+
+    .banner-content {
+      text-align: center;
+      max-width: 800px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .banner-logo {
+      margin-bottom: 20px;
+    }
+
+    .animated-logo {
+      width: 100px;
+      height: 100px;
+      animation: pulse 2s infinite alternate;
+    }
+
+    @keyframes pulse {
+      from {
+        transform: scale(1);
+      }
+
+      to {
+        transform: scale(1.1);
+      }
+    }
+
+    .pizza-title {
+      font-size: 68px;
+      color: #FFA500;
+      font-weight: 800;
+      text-shadow: 3px 3px 0 #770303,
+        -2px -2px 0 #770303,
+        2px -2px 0 #770303,
+        -2px 2px 0 #770303,
+        4px 4px 0 rgba(0, 0, 0, 0.2);
+      margin-bottom: 15px;
+      letter-spacing: 2px;
+      transform: perspective(500px) rotateX(5deg);
+      animation: titleGlow 3s infinite alternate;
+    }
+
+    @keyframes titleGlow {
+      0% {
+        text-shadow: 3px 3px 0 #770303, -2px -2px 0 #770303, 2px -2px 0 #770303, -2px 2px 0 #770303, 0 0 10px rgba(255, 165, 0, 0);
+      }
+
+      100% {
+        text-shadow: 3px 3px 0 #770303, -2px -2px 0 #770303, 2px -2px 0 #770303, -2px 2px 0 #770303, 0 0 20px rgba(255, 165, 0, 0.7);
+      }
+    }
+
+    .banner-tagline {
+      font-size: 24px;
+      color: white;
+      font-weight: 600;
+      margin-bottom: 15px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .banner-stats {
+      font-size: 20px;
+      color: #e0e0e0;
+      margin-bottom: 30px;
+    }
+
+    .stat-highlight {
+      color: #FFA500;
+      font-weight: bold;
+      font-size: 24px;
+    }
+
+    .banner-action {
+      margin-top: 10px;
+    }
+
+    .play-button {
+      display: inline-block;
+      background: #FFA500;
+      color: #770303;
+      font-size: 20px;
+      font-weight: bold;
+      padding: 12px 30px;
+      border-radius: 30px;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 0 #770303, 0 5px 10px rgba(0, 0, 0, 0.3);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .play-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 0 #770303, 0 8px 15px rgba(0, 0, 0, 0.3);
+      color: #770303;
+      text-decoration: none;
+    }
+
+    .play-button:active {
+      transform: translateY(2px);
+      box-shadow: 0 2px 0 #770303, 0 3px 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .pizza-icon {
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      opacity: 0.3;
+      transform-origin: center;
+      animation: float 10s ease-in-out infinite;
+    }
+
+    @keyframes float {
+      0% {
+        transform: translate(0, 0) rotate(0deg);
+      }
+
+      50% {
+        transform: translate(10px, -10px) rotate(180deg);
+      }
+
+      100% {
+        transform: translate(0, 0) rotate(360deg);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .banner {
+        padding: 40px 20px;
+        min-height: 350px;
+      }
+
+      .pizza-title {
+        font-size: 48px;
+      }
+
+      .banner-tagline {
+        font-size: 18px;
+      }
+
+      .banner-stats {
+        font-size: 16px;
+      }
+
+      .stat-highlight {
+        font-size: 20px;
+      }
+
+      .play-button {
+        font-size: 18px;
+        padding: 10px 25px;
+      }
+
+      .animated-logo {
+        width: 80px;
+        height: 80px;
+      }
+    }
+  </style>
 </head>
 
 <body id="page-top" style="background: url('images/background1.png'); background-size: cover;">
@@ -46,15 +233,10 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <a class="navbar-brand js-scroll-trigger" href="/">
-        <img src="/media/the-pizza-edition.png" alt="Pizza Edition Unblocked Game" width="110px" height="50px">
+        <img src="/media/the-pizza-edition.svg" alt="Pizza Edition Unblocked Game" width="50px" height="50px">
       </a>
-
-
       <div class="navbar-collapse collapse" id="nav-menu">
-
-
         <ul class="navbar-nav">
-
           <li class="nav-item "><a class="nav-link " href="/category/car.html">Car</a></li>
           <li class="nav-item "><a class="nav-link " href="/category/sports.html">Sports</a></li>
           <li class="nav-item "><a class="nav-link " href="/category/skill.html">Skill</a></li>
@@ -68,145 +250,98 @@
           <li class="nav-item "><a class="nav-link " href="/category/adventure.html">Adventure</a></li>
           <li class="nav-item "><a class="nav-link " href="/category/puzzle.html">Puzzle</a></li>
           <li class="nav-item "><a class="nav-link " href="/category/new.html">New</a></li>
-
           </li>
         </ul>
-
       </div>
     </div>
   </nav>
-
-
-
-
   </div>
-
-
-
   </div>
   </nav>
-
-
-
-
-
   <div class="container">
-
     <div class="row">
-
-
-
-
-      <div class="col-md-9">
-        <div class="game-container">
-          <div class="game-content" data-id="169">
-            <div id="allow_mobile_version"></div>
-            <!-- 
-                <div id="mobile-play" style="display: none;">
-          				<div class="mobile-thumb-play">
-          					<img src="#">
-          				</div>
-          				<div id="mobile-play-btn">
-          					<i class="bi bi-play-circle-fill"></i>
-          				</div>
-          			</div> -->
-
-
-
-            <div class="game-iframe-container" id="game-player">
-              <div id="mobile-back-button" draggable="true">
-                <i class="bi bi-x-circle-fill"></i>
-              </div>
-              <iframe class="game-iframe" id="game-area" src="/tomb-of-the-mask/" width="480" height="800"
-                scrolling="none" frameborder="0" allowfullscreen=""></iframe>
-            </div>
+      <div class="banner">
+        <div class="pizza-background"></div>
+        <div class="banner-content">
+          <div class="banner-logo">
+            <img src="/media/the-pizza-edition.svg" alt="Pizza Edition Logo" class="animated-logo">
           </div>
-
-          <div class="game-info">
-            <div class="header-left">
-              <h1 class="single-title">Pizza Edition Unblocked Games</h1>
-
-
-            </div>
-            <div class="header-right">
-
-
-              <div class="b-action2">
-
-                <a href="#" onclick="open_fullscreen()" class="btn btn-capsule"><i
-                    class="bi bi-arrows-fullscreen b-icon"></i>Fullscreen</a>
-              </div>
-            </div>
+          <h1 class="pizza-title">Pizza Edition</h1>
+          <div class="banner-tagline">Fullscreen • Ad-Free • Unblocked</div>
+          <div class="banner-stats"><span class="stat-highlight">1000+</span> Games • <span
+              class="stat-highlight">100,000+</span> Players</div>
+          <div class="banner-action">
+            <a href="#games-section" class="play-button">Play Now</a>
           </div>
         </div>
+      </div>
 
-      </div><!-- end col-9 -->
+      <script>
+        // 创建随机大小和位置的pizza图标
+        function createPizzaIcons() {
+          const pizzaBackground = document.querySelector('.pizza-background');
+          const pizzaCount = 15; // 调整pizza图标的数量
 
+          for (let i = 0; i < pizzaCount; i++) {
+            const pizzaIcon = document.createElement('img');
+            pizzaIcon.src = '/media/pizzas/Pizza.svg';
+            pizzaIcon.className = 'pizza-icon';
+
+            // 随机大小 (40px - 120px)
+            const size = Math.random() * 80 + 40;
+            pizzaIcon.style.width = `${size}px`;
+            pizzaIcon.style.height = `${size}px`;
+
+            // 随机位置
+            const left = Math.random() * 100;
+            const top = Math.random() * 100;
+            pizzaIcon.style.left = `${left}%`;
+            pizzaIcon.style.top = `${top}%`;
+
+            // 随机动画延迟和持续时间
+            const animationDelay = Math.random() * 5;
+            const animationDuration = Math.random() * 10 + 5;
+            pizzaIcon.style.animation = `float ${animationDuration}s ease-in-out ${animationDelay}s infinite`;
+
+            pizzaBackground.appendChild(pizzaIcon);
+          }
+        }
+
+        // 页面加载完成后创建pizza图标
+        document.addEventListener('DOMContentLoaded', createPizzaIcons);
+      </script>
 
       <div class="col-md-3 ">
-
         <div align="center">
-
-
         </div>
       </div>
-
-
-
     </div>
-
-
-
-
-
-
     <div class="banner-ad-wrapper">
       <div class="banner-ad-content" style="padding: 20px 0; text-align: center;">
         <!-- ads -->
-
-
-
       </div>
-
-
-
     </div>
 
-
-
-
-
-
-
-
     <!-- Popular games section -->
-    <h3 class="section-title">Similar games</h3>
+    <h3 class="section-title">Top Games</h3>
     <div class="row grid-container">
 
       <!-- 	
-
-	<div class="col-lg-4 col-md-6 grid-2">
-		<a href="/games/gameId.html">
-		<div class="game-item">
-			<div class="list-game">
-				<div class="list-thumbnail"><img src="imgLink" data-src="imgLink" class="small-thumb img-rounded lazyload" alt="gameName"></div>
-				<div class="list-info">
-					<div class="list-title">gameName</div>
-					<div class="list-category">gameCategory</div>
-		
-				</div>
-			</div>
-		</div>
-		</a>
-	</div>					
-
- -->
-
-
-
-
-
-
+        <div class="col-lg-4 col-md-6 grid-2">
+          <a href="/games/gameId.html">
+          <div class="game-item">
+            <div class="list-game">
+              <div class="list-thumbnail"><img src="imgLink" data-src="imgLink" class="small-thumb img-rounded lazyload" alt="gameName"></div>
+              <div class="list-info">
+                <div class="list-title">gameName</div>
+                <div class="list-category">gameCategory</div>
+          
+              </div>
+            </div>
+          </div>
+          </a>
+        </div>					
+      -->
       <div class="col-lg-2 col-md-4 col-6 grid-3">
         <a href="/go/thumb-fighter-christmas.html">
           <div class="game-item">
@@ -411,36 +546,13 @@
           </div>
         </a>
       </div>
-
-
-
-
-
       <div class="banner-ad-wrapper">
         <div class="banner-ad-content" style="padding: 20px 0; text-align: center;">
           <!-- ads -->
-
-
-
-
-
-
         </div>
-
-
-
       </div>
 
-
-
-
-
-
-
     </div> <!-- end Poplular -->
-
-
-
     <!-- Random games section -->
     <h3 class="section-title">You may like</h3>
     <div class="row grid-container">
@@ -1084,50 +1196,13 @@
           </div>
         </a>
       </div>
-
-
-
-
-
-
-
-
-
     </div> <!-- end You May Like -->
-
     <div class="banner-ad-wrapper">
       <div class="banner-ad-content" style="padding: 20px 0; text-align: center;">
-
-
-
-
-
-
       </div>
     </div>
-
-
-
-
-
   </div>
-
-
-
-
-
-
-
-
-
-
   <!-- end container -->
-
-
-
-
-
-
   <div class="footer-copyright py-4">
     <div class="container">
       Pizza Edition <span class="dsb-panel">
