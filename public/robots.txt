@@ -1,0 +1,6 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: https://the-pizza-edition-game.github.io/sitemap.xml
+# END nuxt-robots
