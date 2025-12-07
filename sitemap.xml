@@ -810,7 +810,7 @@
         </image:image>
     </url>
     <url>
-        <loc>https://the-pizza-edition-game.github.io/contact</loc>
+        <loc>https://the-pizza-edition-game.github.io/aup</loc>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>
     </url>
@@ -829,41 +829,49 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/super-bike-the-champion.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rocket-pult.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dunkers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hover-racer-drive.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief-tank-edition.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cookie-clicker.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/merge-round-racers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/foot-chinko.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/color-tunnel-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hextris.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/drift-boss.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/grand-prix-hero.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/idle-lumber-inc.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/jumping-shell.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/extreme-car-parking.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/golf-champions.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cats.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-golf.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/submit</loc>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/tos</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/category/2-player</loc>
@@ -8975,6 +8983,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/rocky-and-bullwinkle-3-4</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-shooters-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/raft-wars.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stick-defenders.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/rolly-vortex</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -12787,4 +12836,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-12-03T19:40:16.893Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-12-07T15:38:15.626Z -->
