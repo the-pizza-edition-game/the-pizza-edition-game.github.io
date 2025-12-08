@@ -2,11 +2,11 @@
 FROM nginx:alpine
 
 # Copy custom Nginx configuration
-COPY docker/default.conf /etc/nginx/conf.d/default.conf
+COPY default.conf /etc/nginx/conf.d/default.conf
 
-# Copy the built application
-# We assume the build context is the project root and the app has been built to .output/public
-COPY .output/public /usr/share/nginx/html
+# Copy all files from the current directory to the Nginx web root
+# Since we are building from the .github.io directory which already contains the static files
+COPY . /usr/share/nginx/html
 
 # Expose port 80 to the host
 EXPOSE 80
