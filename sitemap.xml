@@ -362,6 +362,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
@@ -829,40 +832,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/candy-jump.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/panda-simulator-3d.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/football-masters.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/soccer-random.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/g-switch-3.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/gold-digger-frvr.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/merge-round-racers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/pool-club.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dinosaur-game.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/zombie-derby-pixel-survival.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/running-fred.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/skiing-fred.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/gobble.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -935,6 +938,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
@@ -4591,6 +4597,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
@@ -4711,6 +4720,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
@@ -4747,6 +4759,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
@@ -5555,6 +5570,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/extreme-car-driving-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
@@ -6539,6 +6557,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
@@ -8019,6 +8040,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
@@ -8611,6 +8635,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
@@ -11348,6 +11375,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
@@ -11931,6 +11961,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
@@ -12848,4 +12881,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-12-08T04:31:20.296Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.7 at 2025-12-08T17:58:07.284Z -->
