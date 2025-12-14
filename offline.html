@@ -1,197 +1,201 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Offline - PizaGame</title>
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Offline - PizaGame</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+        Roboto, sans-serif;
+      background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+      color: #ffffff;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+
+    .offline-container {
+      text-align: center;
+      max-width: 600px;
+    }
+
+    .offline-icon {
+      font-size: 5rem;
+      margin-bottom: 2rem;
+      opacity: 0.8;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, #ff6b6b 0%, #ffa500 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    p {
+      font-size: 1.1rem;
+      color: #b0b0b0;
+      margin-bottom: 1.5rem;
+      line-height: 1.6;
+    }
+
+    .cached-games-section {
+      margin-top: 3rem;
+    }
+
+    .section-title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 1.5rem;
+      color: #ffffff;
+    }
+
+    #cached-games-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .game-item {
+      background-color: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      padding: 1rem;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .game-item:hover {
+      background-color: rgba(255, 255, 255, 0.1);
+      transform: translateY(-4px);
+    }
+
+    .game-title {
+      font-weight: 600;
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .game-cached-at {
+      font-size: 0.75rem;
+      color: #888;
+    }
+
+    .no-cached-games {
+      color: #888;
+      font-style: italic;
+      margin-top: 1rem;
+    }
+
+    .back-btn {
+      margin-top: 2rem;
+      padding: 1rem 2rem;
+      background: linear-gradient(135deg, #ff6b6b 0%, #ffa500 100%);
+      border: none;
+      border-radius: 12px;
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: transform 0.2s;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .back-btn:hover {
+      transform: scale(1.05);
+    }
+
+    .status-indicator {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background-color: #ff6b6b;
+      margin-right: 0.5rem;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        opacity: 1;
       }
 
-      body {
-        font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-          Roboto, sans-serif;
-        background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
-        color: #ffffff;
-        min-height: 100vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 2rem;
+      50% {
+        opacity: 0.5;
       }
+    }
 
-      .offline-container {
-        text-align: center;
-        max-width: 600px;
-      }
+    .loading {
+      color: #888;
+      font-style: italic;
+    }
+  </style>
+</head>
 
-      .offline-icon {
-        font-size: 5rem;
-        margin-bottom: 2rem;
-        opacity: 0.8;
-      }
+<body>
+  <div class="offline-container">
+    <div class="offline-icon">📡</div>
+    <h1>
+      <span class="status-indicator"></span>
+      You're Offline
+    </h1>
+    <p>
+      Check your internet connection to browse all games. You can still play
+      cached games below!
+    </p>
 
-      h1 {
-        font-size: 2.5rem;
-        font-weight: 700;
-        margin-bottom: 1rem;
-        background: linear-gradient(135deg, #ff6b6b 0%, #ffa500 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-      }
-
-      p {
-        font-size: 1.1rem;
-        color: #b0b0b0;
-        margin-bottom: 1.5rem;
-        line-height: 1.6;
-      }
-
-      .cached-games-section {
-        margin-top: 3rem;
-      }
-
-      .section-title {
-        font-size: 1.5rem;
-        font-weight: 600;
-        margin-bottom: 1.5rem;
-        color: #ffffff;
-      }
-
-      #cached-games-list {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-        gap: 1rem;
-        margin-top: 1rem;
-      }
-
-      .game-item {
-        background-color: rgba(255, 255, 255, 0.05);
-        border-radius: 12px;
-        padding: 1rem;
-        transition: all 0.3s ease;
-        cursor: pointer;
-        text-decoration: none;
-        color: inherit;
-        display: block;
-      }
-
-      .game-item:hover {
-        background-color: rgba(255, 255, 255, 0.1);
-        transform: translateY(-4px);
-      }
-
-      .game-title {
-        font-weight: 600;
-        font-size: 0.9rem;
-        margin-bottom: 0.5rem;
-      }
-
-      .game-cached-at {
-        font-size: 0.75rem;
-        color: #888;
-      }
-
-      .no-cached-games {
-        color: #888;
-        font-style: italic;
-        margin-top: 1rem;
-      }
-
-      .back-btn {
-        margin-top: 2rem;
-        padding: 1rem 2rem;
-        background: linear-gradient(135deg, #ff6b6b 0%, #ffa500 100%);
-        border: none;
-        border-radius: 12px;
-        color: white;
-        font-size: 1rem;
-        font-weight: 600;
-        cursor: pointer;
-        transition: transform 0.2s;
-        text-decoration: none;
-        display: inline-block;
-      }
-
-      .back-btn:hover {
-        transform: scale(1.05);
-      }
-
-      .status-indicator {
-        display: inline-block;
-        width: 12px;
-        height: 12px;
-        border-radius: 50%;
-        background-color: #ff6b6b;
-        margin-right: 0.5rem;
-        animation: pulse 2s ease-in-out infinite;
-      }
-
-      @keyframes pulse {
-        0%,
-        100% {
-          opacity: 1;
-        }
-        50% {
-          opacity: 0.5;
-        }
-      }
-
-      .loading {
-        color: #888;
-        font-style: italic;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="offline-container">
-      <div class="offline-icon">📡</div>
-      <h1>
-        <span class="status-indicator"></span>
-        You're Offline
-      </h1>
-      <p>
-        Check your internet connection to browse all games. You can still play
-        cached games below!
-      </p>
-
-      <div class="cached-games-section">
-        <h2 class="section-title">Available Offline Games</h2>
-        <div id="cached-games-list">
-          <p class="loading">Loading cached games...</p>
-        </div>
+    <div class="cached-games-section">
+      <h2 class="section-title">Available Offline Games</h2>
+      <div id="cached-games-list">
+        <p class="loading">Loading cached games...</p>
       </div>
-
-      <a href="/" class="back-btn">Try to Reconnect</a>
     </div>
 
-    <script>
-      // IndexedDB configuration
-      const DB_NAME = 'pizagame-cache';
-      const DB_VERSION = 1;
-      const STORE_NAME = 'game-cache-status';
+    <a href="/" class="back-btn">Try to Reconnect</a>
+  </div>
 
-      // Load cached games from IndexedDB
-      async function loadCachedGames() {
-        const container = document.getElementById('cached-games-list');
+  <script>
+    // IndexedDB configuration
+    const DB_NAME = 'pizagame-cache';
+    const DB_VERSION = 1;
+    const STORE_NAME = 'game-cache-status';
 
-        try {
-          const db = await openDatabase();
-          const games = await getCachedGames(db);
+    // Load cached games from IndexedDB
+    async function loadCachedGames() {
+      const container = document.getElementById('cached-games-list');
 
-          if (games.length === 0) {
-            container.innerHTML =
-              '<p class="no-cached-games">No games cached yet. Cache games while online to play them offline!</p>';
-            return;
-          }
+      try {
+        const db = await openDatabase();
+        const games = await getCachedGames(db);
 
-          container.innerHTML = games
-            .map(
-              (game) => `
+        if (games.length === 0) {
+          container.innerHTML =
+            '<p class="no-cached-games">No games cached yet. Cache games while online to play them offline!</p>';
+          return;
+        }
+
+        container.innerHTML = games
+          .map(
+            (game) => `
             <a href="/games/${game.slug}" class="game-item">
               <div class="game-title">${game.title}</div>
               <div class="game-cached-at">
@@ -199,62 +203,63 @@
               </div>
             </a>
           `
-            )
-            .join('');
-        } catch (error) {
-          console.error('Error loading cached games:', error);
-          container.innerHTML =
-            '<p class="no-cached-games">Unable to load cached games.</p>';
-        }
+          )
+          .join('');
+      } catch (error) {
+        console.error('Error loading cached games:', error);
+        container.innerHTML =
+          '<p class="no-cached-games">Unable to load cached games.</p>';
       }
+    }
 
-      function openDatabase() {
-        return new Promise((resolve, reject) => {
-          const request = indexedDB.open(DB_NAME, DB_VERSION);
-          request.onsuccess = () => resolve(request.result);
-          request.onerror = () => reject(request.error);
-        });
-      }
-
-      function getCachedGames(db) {
-        return new Promise((resolve, reject) => {
-          const transaction = db.transaction([STORE_NAME], 'readonly');
-          const store = transaction.objectStore(STORE_NAME);
-          const index = store.index('status');
-          const request = index.getAll('cached');
-
-          request.onsuccess = () => resolve(request.result || []);
-          request.onerror = () => reject(request.error);
-        });
-      }
-
-      function formatDate(timestamp) {
-        const date = new Date(timestamp);
-        const now = new Date();
-        const diffMs = now - date;
-        const diffMins = Math.floor(diffMs / 60000);
-        const diffHours = Math.floor(diffMs / 3600000);
-        const diffDays = Math.floor(diffMs / 86400000);
-
-        if (diffMins < 1) return 'just now';
-        if (diffMins < 60) return `${diffMins}m ago`;
-        if (diffHours < 24) return `${diffHours}h ago`;
-        if (diffDays < 7) return `${diffDays}d ago`;
-        return date.toLocaleDateString();
-      }
-
-      // Load cached games when page loads
-      if ('indexedDB' in window) {
-        loadCachedGames();
-      } else {
-        document.getElementById('cached-games-list').innerHTML =
-          '<p class="no-cached-games">IndexedDB not supported in this browser.</p>';
-      }
-
-      // Check for online status and auto-redirect
-      window.addEventListener('online', () => {
-        window.location.href = '/';
+    function openDatabase() {
+      return new Promise((resolve, reject) => {
+        const request = indexedDB.open(DB_NAME, DB_VERSION);
+        request.onsuccess = () => resolve(request.result);
+        request.onerror = () => reject(request.error);
       });
-    </script>
-  </body>
+    }
+
+    function getCachedGames(db) {
+      return new Promise((resolve, reject) => {
+        const transaction = db.transaction([STORE_NAME], 'readonly');
+        const store = transaction.objectStore(STORE_NAME);
+        const index = store.index('status');
+        const request = index.getAll('cached');
+
+        request.onsuccess = () => resolve(request.result || []);
+        request.onerror = () => reject(request.error);
+      });
+    }
+
+    function formatDate(timestamp) {
+      const date = new Date(timestamp);
+      const now = new Date();
+      const diffMs = now - date;
+      const diffMins = Math.floor(diffMs / 60000);
+      const diffHours = Math.floor(diffMs / 3600000);
+      const diffDays = Math.floor(diffMs / 86400000);
+
+      if (diffMins < 1) return 'just now';
+      if (diffMins < 60) return `${diffMins}m ago`;
+      if (diffHours < 24) return `${diffHours}h ago`;
+      if (diffDays < 7) return `${diffDays}d ago`;
+      return date.toLocaleDateString();
+    }
+
+    // Load cached games when page loads
+    if ('indexedDB' in window) {
+      loadCachedGames();
+    } else {
+      document.getElementById('cached-games-list').innerHTML =
+        '<p class="no-cached-games">IndexedDB not supported in this browser.</p>';
+    }
+
+    // Check for online status and auto-redirect
+    window.addEventListener('online', () => {
+      window.location.href = '/';
+    });
+  </script>
+</body>
+
 </html>
