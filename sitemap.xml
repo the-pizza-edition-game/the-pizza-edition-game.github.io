@@ -95,6 +95,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/volley-random.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/polytrack.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-ball.webp</image:loc>
         </image:image>
         <image:image>
@@ -835,40 +838,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rabbit-samurai.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rowdy-wrestling.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/crazy-tunnel-3d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/color-switch.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/slope.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/color-tunnel-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/n-gon.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-bike.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/death-chase.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/super-tunnel-rush.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1492,6 +1495,9 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/ultimate-car-driving.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/polytrack.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/category/new</loc>
@@ -1547,6 +1553,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/volley-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/polytrack.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -8451,6 +8460,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/polytrack</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/pool-club</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -12884,4 +12934,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.9 at 2025-12-16T11:30:47.265Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.9 at 2025-12-18T02:55:45.077Z -->
