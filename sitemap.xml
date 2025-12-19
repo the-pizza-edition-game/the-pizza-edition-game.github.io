@@ -847,40 +847,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/my-pony-my-little-race.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/extreme-car-parking.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/ultimate-car-driving.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dog-simulator-3d.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/gold-digger-frvr.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/parking-fury-3d-bounty-hunter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/idle-digging-tycoon.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/skiing-fred.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/death-chase.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/moto-x3m-winter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/kix-dream-soccer.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stack-ball.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/crazy-tunnel-3d.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/slope-city.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/short-life.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/two-neon-boxes.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-bike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/gobble.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/soccer-skills-world-cup.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1518,6 +1518,218 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/category/multiplayer</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-ball.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bowling-stars.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/curve-ball-3d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dunkers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/football-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/football-masters.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/g-switch-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/head-soccer-2023.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/heads-arena-soccer-all-stars.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/madalin-stunt-cars-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/madalin-stunt-cars-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/my-pony-my-little-race.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/paper-io-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-kick-online.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rally-champion.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rocket-soccer-derby.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rowdy-city-wrestling.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/rowdy-wrestling.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/slope-2-multiplayer.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/soccar.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/soccer-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/soccer-skills-euro-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/master-chess.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-climb-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stunt-car-challenge-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/super-tunnel-rush.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/superbattle-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/temple-of-boom.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tennis-masters.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter-christmas.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tube-jumpers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/two-ball-3d-dark.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/two-neon-boxes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/volley-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/wrassling.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/category/new</loc>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2086,6 +2298,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
@@ -2095,6 +2310,12 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
@@ -2102,15 +2323,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2168,6 +2380,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2180,6 +2395,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
@@ -2187,12 +2405,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2203,37 +2415,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2282,6 +2494,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2289,6 +2504,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -2307,15 +2528,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2364,6 +2576,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2371,6 +2586,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -2390,15 +2611,6 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/among-us</loc>
@@ -2414,31 +2626,31 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/chicken-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cookie-clicker.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/drift-hunters.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/football-legends.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/merge-cyber-racers.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/merge-round-racers.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/paper-io-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2452,34 +2664,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2651,6 +2863,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2661,6 +2876,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -2676,15 +2897,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2692,6 +2904,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2702,6 +2917,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -2717,15 +2938,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2733,6 +2945,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2743,6 +2958,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -2758,15 +2979,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2774,6 +2986,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2784,6 +2999,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -2799,15 +3020,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2865,6 +3077,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -2880,16 +3095,13 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2903,34 +3115,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2944,34 +3156,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2982,43 +3194,46 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-climb-racing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-rush.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief-tank-edition.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/blumgi-ball</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
@@ -3030,6 +3245,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -3046,15 +3267,6 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/blumgi-castle</loc>
@@ -3064,37 +3276,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-ball.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/color-switch.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/crossy-road.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/doodle-jump.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hextris.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-tic-tac-toe.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/jumping-shell.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/maze-path-of-light.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3108,34 +3320,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3149,40 +3361,43 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/bowling-stars</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
@@ -3194,6 +3409,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -3210,15 +3431,6 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/boxing-physics-2</loc>
@@ -3231,34 +3443,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3272,34 +3484,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3395,34 +3607,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3436,34 +3648,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bunny-hop.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -3472,6 +3684,9 @@
         <priority>0.8</priority>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
@@ -3498,13 +3713,10 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -4478,34 +4690,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -5292,34 +5504,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -5696,40 +5908,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/deer-simulator.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dog-simulator-3d.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/doodle-champion-island.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/extreme-car-driving-simulator.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/horse-simulator-3d.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/panda-simulator-3d.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rabbit-samurai.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/real-simulator-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -5828,6 +6040,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -5843,22 +6058,22 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/football-masters</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
@@ -5870,6 +6085,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -5885,15 +6106,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -5989,34 +6201,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -6065,40 +6277,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-shooters-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/raft-wars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-defenders.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -6443,6 +6655,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -6455,19 +6670,16 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -6475,6 +6687,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -6485,6 +6700,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -6500,15 +6721,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -6721,34 +6933,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/superbattle-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter-christmas.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/swatforce-vs-terrorists.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -6961,34 +7179,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/superbattle-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter-christmas.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/swatforce-vs-terrorists.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7280,37 +7504,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-climb-racing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-rush.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7321,37 +7545,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-climb-racing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-rush.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7359,40 +7583,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-shooters-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/raft-wars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-defenders.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7403,37 +7627,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/chicken-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hextris.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-tic-tac-toe.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/jumping-shell.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/maze-path-of-light.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/merge-cyber-racers.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/merge-round-racers.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mosaic-puzzle-art.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7570,34 +7794,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7974,34 +8198,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -8214,22 +8438,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/chicken-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/merge-cyber-racers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/merge-round-racers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/master-chess.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -8410,6 +8652,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -8425,16 +8670,13 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -8565,40 +8807,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-shooters-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/raft-wars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-defenders.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -8896,37 +9138,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-climb-racing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-rush.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -9183,6 +9425,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
@@ -9207,13 +9452,10 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -9353,31 +9595,31 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cookie-clicker.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/drift-hunters.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/football-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -9385,40 +9627,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-shooters-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/raft-wars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-defenders.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-merge.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -9426,6 +9668,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -9436,6 +9681,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -9451,15 +9702,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -9467,6 +9709,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -9477,6 +9722,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -9492,15 +9743,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -9965,34 +10207,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -10167,37 +10409,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-climb-racing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-rush.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -10214,6 +10456,9 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -10226,19 +10471,16 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -10287,6 +10529,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -10297,6 +10542,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -10312,15 +10563,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -10867,34 +11109,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-ball.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -11107,34 +11349,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/superbattle-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter-christmas.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/swatforce-vs-terrorists.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -11145,37 +11393,37 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-for-monster-truck.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bumper-cars-soccer.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burnout-drift-seaport-max.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-climb-racing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/car-rush.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -11681,34 +11929,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -11716,34 +11964,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter-christmas.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/swatforce-vs-terrorists.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -11874,34 +12128,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/superbattle-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter-christmas.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/swatforce-vs-terrorists.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -11950,40 +12210,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/penalty-shooters-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/pixwars-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/raft-wars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/rooftop-snipers-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stick-defenders.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -12032,6 +12292,9 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
@@ -12042,6 +12305,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
@@ -12057,15 +12326,6 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -12155,34 +12415,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/superbattle-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/tag.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/swatforce-vs-terrorists.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-legends.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basketball-stars.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -12565,34 +12831,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -12697,25 +12963,25 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -12732,31 +12998,31 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/head-soccer-2023.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/hextris.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/idle-digging-tycoon.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/idle-lumber-inc.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-tic-tac-toe.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/jumping-shell.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -12861,25 +13127,25 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -13057,34 +13323,34 @@
             <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-bros.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-champs.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -13129,4 +13395,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.9 at 2025-12-19T13:39:49.087Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.9 at 2025-12-19T14:18:55.733Z -->
