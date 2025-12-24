@@ -1,5 +1,5 @@
 {
-  "date": "2025-12-23T14:27:59.377Z",
+  "date": "2025-12-24T16:00:40.219Z",
   "preset": "github-pages",
   "framework": {
     "name": "nuxt",
@@ -12,5 +12,18 @@
     "preview": "npx serve public",
     "deploy": "npx gh-pages --dotfiles -d public"
   },
-  "config": {}
+  "config": {
+    "cloudflare": {
+      "pages": {
+        "routes": {
+          "include": [
+            "/*"
+          ],
+          "exclude": [
+            "/media/*"
+          ]
+        }
+      }
+    }
+  }
 }
