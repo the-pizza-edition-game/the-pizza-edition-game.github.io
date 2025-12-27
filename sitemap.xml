@@ -874,6 +874,42 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/city-bike-stunt-2.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cubes-king.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/infinity-loop.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/wood-blocks-3d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/10-minutes-till-dawn.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tomb-of-the-mask.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/leader-strike.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/moto-x3m-spooky-land.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/elastic-man.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-monster-truck-race.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/vex-4.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/flappy-bird.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/about</loc>
@@ -906,40 +942,40 @@
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/cookie-clicker.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/two-ball-3d-dark.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dog-simulator-3d.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/minecraft-188.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stair-race-3d.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/soccar.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/striker-dummies.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/shortcut-race.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stacktris.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-bridge-constructor.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-climb-2.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/extreme-car-driving-simulator.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/blocky-cars.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/stickman-hook.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://the-pizza-edition-game.github.io/media/stack-bump-3d.webp</image:loc>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cyber-cars-punk-racing.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1008,6 +1044,18 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/10-minutes-till-dawn.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tomb-of-the-mask.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/leader-strike.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-3.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/category/adventure</loc>
@@ -1075,6 +1123,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/three-goblets.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/vex-4.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-3.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -1399,6 +1453,24 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/thumb-fighter.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cubes-king.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/wood-blocks-3d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/tomb-of-the-mask.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/elastic-man.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/vex-4.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/flappy-bird.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/category/driving</loc>
@@ -1637,6 +1709,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/city-bike-stunt-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/moto-x3m-spooky-land.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-monster-truck-race.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2143,6 +2221,15 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/who-is.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cubes-king.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/infinity-loop.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/wood-blocks-3d.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/category/shooting</loc>
@@ -2204,6 +2291,12 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/cubito-mayhem.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/10-minutes-till-dawn.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/leader-strike.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2357,6 +2450,12 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/city-bike-stunt-2.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/moto-x3m-spooky-land.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-monster-truck-race.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/category/strategy</loc>
@@ -2394,6 +2493,9 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/three-goblets.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/infinity-loop.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -2599,6 +2701,47 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/games/10-minutes-till-dawn</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -4644,6 +4787,9 @@
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/three-goblets.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/infinity-loop.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://the-pizza-edition-game.github.io/games/city-bike-stunt-2</loc>
@@ -5094,6 +5240,47 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/games/cubes-king</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -6081,6 +6268,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/elastic-man</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/electron-dash</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -6368,6 +6596,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/fancy-pants-3</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/deer-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dog-simulator-3d.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/doodle-champion-island.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/extreme-car-driving-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fancy-pants-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/fireboy-and-watergirl-3.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/flying-car-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/horse-simulator-3d.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/fireboy-and-watergirl</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -6406,6 +6675,47 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basket-swooshes.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/games/flappy-bird</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7598,6 +7908,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/impossible-monster-truck-race</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/impossible-tic-tac-toe</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -7636,6 +7987,47 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/stack-bump-3d.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/games/infinity-loop</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/among-us.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/chicken-merge.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/hextris.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/impossible-tic-tac-toe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/jumping-shell.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/maze-path-of-light.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/merge-cyber-racers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/merge-round-racers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/mosaic-puzzle-art.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -7841,6 +8233,47 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/basketball-line.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/games/leader-strike</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/burrito-bison.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/cannon-strike.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/dreadhead-parkour.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/free-kick-shooter.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/getaway-shootout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/hammer-2-reloaded.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/house-of-hazards.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/iron-snout.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/mad-day.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/masked-forces.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/murder.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/neon-war.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -8620,6 +9053,47 @@
         </image:image>
         <image:image>
             <image:loc>https://the-pizza-edition-game.github.io/media/cars-thief.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://the-pizza-edition-game.github.io/games/moto-x3m-spooky-land</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/drive-mad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4th-and-goal-2022.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/4x4-drive-offroad.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/8-ball-pool.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-small-world-cup.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/adventure-drivers.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/air-hockey-championship-deluxe.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/archery-world-tour.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/athletics-hero.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/basket-and-ball.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -13420,6 +13894,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/tomb-of-the-mask</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/bubble-trouble-3.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/tomb-of-the-mask-color</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -13953,6 +14468,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/vex-4</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-car-simulator.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/3d-moto-simulator-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-random.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/vex-5</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -14158,6 +14714,47 @@
         </image:image>
     </url>
     <url>
+        <loc>https://the-pizza-edition-game.github.io/games/wood-blocks-3d</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/geometry-dash.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/brain-test-tricky-puzzles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/12-minibattles.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/a-dance-of-fire-and-ice.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/aqua-thrills.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/arithmetica.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/battle-wheels.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/big-shot-boxing.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-castle.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-rocket.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/blumgi-slime.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://the-pizza-edition-game.github.io/media/boxing-physics-2.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
         <loc>https://the-pizza-edition-game.github.io/games/worlds-hardest-game-2</loc>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -14322,4 +14919,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.9 at 2025-12-27T13:27:03.275Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.9 at 2025-12-27T15:44:47.311Z -->
